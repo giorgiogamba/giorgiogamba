@@ -7,7 +7,7 @@ I am a Software Engineer based in Turin, specialize in building robust, low-leve
 ---
 
 ## High-Level Expertise
-* **Systems Programming:** Advanced C++ (17/20), Parallel Programming, and real-time communication (DDS).
+* **Systems Programming:** Advanced C++ (17/20), and real-time communication (DDS).
 * **Graphics & UI:** Cross-platform GUI development with Qt and low-level rendering with Vulkan.
 * **Audio Engineering:** Digital Signal Processing (DSP) and VST plugin development using the JUCE framework.
 * **Full-Stack Exploration:** Building specialized web tools for the music industry using React and Django.
